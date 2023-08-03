@@ -1,4 +1,4 @@
-#link: https://leetcode.com/problems/minimum-window-substring/
+#link: https://leetcode.com/problems/minimum-window-substrin
 
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
